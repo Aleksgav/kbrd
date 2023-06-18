@@ -97,7 +97,7 @@
       "KC_NO",
       "KC_RGUI",
       "KC_RCTL",
-      "KC_LEFT",
+      "MACRO(0)",
       "KC_DOWN",
       "MACRO(0)",
       "KC_NO"
