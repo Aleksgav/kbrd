@@ -82,7 +82,7 @@
       "KC_DOT",
       "KC_SLSH",
       "KC_RSFT",
-      "KC_UP",
+      "KC_TRNS",
       "KC_END",
       "KC_NO",
       "MO(1)",
@@ -98,7 +98,7 @@
       "KC_RGUI",
       "KC_RCTL",
       "MACRO(0)",
-      "KC_DOWN",
+      "KC_TRNS",
       "MACRO(0)",
       "KC_NO"
     ],
